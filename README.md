@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Data Science and AI enthusiast passionate about building scalable solutions in Machine Learning, NLP, Generative AI, and Cloud Computing. With hands-on expertise in LLM-based text anonymization, AI-generated text detection, and large-scale data engineering, I specialize in turning complex data into actionable insights. Skilled in Python, NLP, LLMs, SQL, AWS, and MLOps, I excel at optimizing data workflows and enhancing model performance.
 
-As an experienced team leader and effective communicator, I thrive in collaborative environments, bridging the gap between technology and real-world impact. Beyond tech, I am a professional Western dancer, avid traveler, and constantly driven by curiosity.
+As an experienced team leader and effective communicator, I thrive in collaborative environments, bridging the gap between technology and real-world impact. Beyond tech, I am a professional Singer, avid traveler, and constantly driven by curiosity.
 
 I'm excited to connect and collaborate on innovative AI-driven projects!
 
