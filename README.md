@@ -3,7 +3,7 @@ I am a Data Science and AI enthusiast passionate about building scalable solutio
 
 As an experienced team leader and effective communicator, I thrive in collaborative environments, bridging the gap between technology and real-world impact. Beyond tech, I am a professional Singer, avid traveler, and constantly driven by curiosity.
 
-I'm excited to connect and collaborate on innovative AI-driven projects!
+I'm excited to connect and collaborate on innovative AI-driven projects! :)
 
 
 ## 🌐 Socials:
